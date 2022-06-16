@@ -2,7 +2,7 @@
 ![Image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Image](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-Welcome to my profile 😎
+### Welcome to my profile 😎
 
 As a person I'm super curious about how things are combined & created with all the smallest details of everything. 
 
